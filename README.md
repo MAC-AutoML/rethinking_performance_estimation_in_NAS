@@ -8,8 +8,8 @@ Two hyperparameter settings for searching, named **BPE1** and **BPE2** respectiv
 
 1. Train
 ```bash
-git clone https://github.com/CVPR2020-ID1073/Rethinking-Performance-Estimation-in-Neural-Architecture-Search.git
-cd Rethinking-Performance-Estimation-in-Neural-Architecture-Search
+git clone https://github.com/zhengxiawu/rethinking_performance_estimation_in_NAS.git
+cd rethinking_performance_estimation_in_NAS
 
 python run_rl.py --run_id=0 --output_path=experiment/RL --n_iters=100 --lr=1e-1 --param=BPE1/BPE2
 ```

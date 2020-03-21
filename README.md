@@ -68,6 +68,9 @@ python search.py --name=DARTS_BPE1 --batch_size=128 --w_lr=0.03 --layers=6 --ini
 python search.py --name=DARTS_BPE2 --batch_size=128 --w_lr=0.03 --layers=16 --init_channels=16 --epochs=30 --cutout_length=0 --image_size=16
 ```
 
+### Search Trails
+We also release the examples we sampled in our paper in Search_Hyperparameters_Results.xlsx 
+
 ### Reference Project
 https://github.com/khanrc/pt.darts
 

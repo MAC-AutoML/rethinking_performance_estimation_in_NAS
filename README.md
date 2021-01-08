@@ -1,6 +1,6 @@
-# Rethinking Performance Estimation in Neural Architecture Search
+# [Rethinking Performance Estimation in Neural Architecture Search](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Rethinking_Performance_Estimation_in_Neural_Architecture_Search_CVPR_2020_paper.pdf)
 
-There is the code of the paper ``Rethinking Performance Estimation in Neural Architecture Search`` for searching. We provide the implementations of Reinforcement Learning(RL), Evolution Algorithm(EA), Random Search(RS) and Differentiable Architecture Search(DARTS) coped with the proposed ``BPE`` method.
+There is the code of the paper [``Rethinking Performance Estimation in Neural Architecture Search``](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Rethinking_Performance_Estimation_in_Neural_Architecture_Search_CVPR_2020_paper.pdf) for searching. We provide the implementations of Reinforcement Learning(RL), Evolution Algorithm(EA), Random Search(RS) and Differentiable Architecture Search(DARTS) coped with the proposed ``BPE`` method.
 
 Two hyperparameter settings for searching, named **BPE1** and **BPE2** respectively, are defined in ``param_setting.py``. ``BPE1`` takes only **0.33 GPU hours** to train a full network while ``BPE2`` takes **0.5 GPU hours**.
 

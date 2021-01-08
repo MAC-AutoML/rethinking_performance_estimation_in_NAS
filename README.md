@@ -77,3 +77,14 @@ https://github.com/khanrc/pt.darts
 https://github.com/automl/fanova
 
 https://github.com/automl/nas_benchmarks
+
+### Cite this work
+```
+@INPROCEEDINGS {zheng_rethinking,
+  author = {X. Zheng and R. Ji and Q. Wang and Q. Ye and Z. Li and Y. Tian and Q. Tian},
+  booktitle = {2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  title = {Rethinking Performance Estimation in Neural Architecture Search},
+  year = {2020},
+  month = {jun}
+}
+'''
